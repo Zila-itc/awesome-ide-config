@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "mcp-mui": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@mui/mcp@0.1.0"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": {},
+      "dev": {}
+    },
+    "Ant Design Components": {
+      "command": "npx",
+      "args": [
+        "@jzone-mcp/antd-components-mcp"
+      ]
+    }
+  }
+}
