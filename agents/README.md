@@ -6,15 +6,17 @@
 
 ````json
 {
-  "servers": {
-}
+  "servers": {}
 }
 
 `OTHER config`
 
 ```json
 {
-  "mcpServers": {
-}
+  "mcpServers": {}
 }
 ````
+
+## Windsurf
+
+- MCP file `mcp_config.json`
