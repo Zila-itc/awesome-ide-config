@@ -23,8 +23,8 @@ With these configurations, Project Awesome aims to provide a seamless and produc
 
 ### AWESOME
 
-<https://github.com/punkpeye/awesome-mcp-servers>
-<https://github.com/punkpeye/awesome-mcp-clients>
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 ### **Table: Curated AI Coding Agents & IDE Tools (Favorites Only)**
 
